@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">Arquitectura_de_Android</string>
+    <string name="app_name">Estoy aprendiendo el GravityLayout</string>
+
+    <string name="nombre_gravity">Gravity</string>
+    <string name="android1">Jelly Bean</string>
+    <string name="android2">KitKat</string>
+    <string name="android3">Lollipop</string>
+    <string name="android4">Marshmallow</string>
+    <string name="android5">Nougat</string>
+
+    <string name="nombre_buscar">Ejercicio de Gravity</string>
+    <string name="buscar">Buscar</string>
 </resources>
